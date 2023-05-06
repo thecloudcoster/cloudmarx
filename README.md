@@ -2,7 +2,7 @@
 
 ## Contents
 
-The Open-Source Cloud Cost Management Framework that is compatible with OKR methodology.
+The Open-Source Cloud Value Management Framework that is compatible with OKR methodology.
 
 1. [What is Cloud Marx?](./00.whatiscloudmarx.md)
 1. [Personas](./10.personas.md)
